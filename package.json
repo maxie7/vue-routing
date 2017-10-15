@@ -1,5 +1,5 @@
 {
-  "name": "vue-router",
+  "name": "vue-router-test",
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "Kos Max <maxie7@protonmail.com>",
@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "vue": "^2.4.4"
+    "vue": "^2.4.4",
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
